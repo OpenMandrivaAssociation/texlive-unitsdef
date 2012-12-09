@@ -65,3 +65,16 @@ changes the output concerning to the surrounding font settings.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.2-2
++ Revision: 757289
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.2-1
++ Revision: 719852
+- texlive-unitsdef
+- texlive-unitsdef
+- texlive-unitsdef
+
