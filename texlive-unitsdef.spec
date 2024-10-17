@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Typesetting units in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unitsdef
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unitsdef
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unitsdef.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unitsdef.doc.r%{version}.tar.xz
